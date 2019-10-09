@@ -32,19 +32,19 @@ Date,Visitor,Away Odds,Home,Home Odds,OT,Prediction,Result
 2019-10-06,Dallas Stars,-140.0,Detroit Red Wings,120.0,,Dallas,Detroit Red Wings
 2019-10-06,Tampa Bay Lightning,-115.0,Carolina Hurricanes,-105.0,OT,Tampa Bay,Carolina Hurricanes
 2019-10-06,Winnipeg Jets,120.0,New York Islanders,-140.0,,New York Islanders,New York Islanders
-2019-10-07,Buffalo Sabres,-105.0,Columbus Blue Jackets,-115.0,,Columbus,
-2019-10-07,St. Louis Blues,110.0,Toronto Maple Leafs,-130.0,,St. Louis,
-2019-10-08,Los Angeles Kings,,Calgary Flames,,,,
-2019-10-08,Anaheim Ducks,,Detroit Red Wings,,,,
-2019-10-08,Carolina Hurricanes,,Florida Panthers,,,,
-2019-10-08,San Jose Sharks,,Nashville Predators,,,,
-2019-10-08,Edmonton Oilers,,New York Islanders,,,,
-2019-10-08,Winnipeg Jets,,Pittsburgh Penguins,,,,
-2019-10-08,Boston Bruins,,Vegas Golden Knights,,,,
-2019-10-08,Dallas Stars,,Washington Capitals,,,,
-2019-10-09,Montreal Canadiens,,Buffalo Sabres,,,,
-2019-10-09,New Jersey Devils,,Philadelphia Flyers,,,,
-2019-10-09,Los Angeles Kings,,Vancouver Canucks,,,,
+2019-10-07,Buffalo Sabres,-105.0,Columbus Blue Jackets,-115.0,OT,Columbus,Columbus Blue Jackets
+2019-10-07,St. Louis Blues,110.0,Toronto Maple Leafs,-130.0,,St. Louis,St. Louis Blues
+2019-10-08,Anaheim Ducks,-110.0,Detroit Red Wings,-110.0,,Detroit,Anaheim Ducks
+2019-10-08,Boston Bruins,120.0,Vegas Golden Knights,-140.0,,Boston,Boston Bruins
+2019-10-08,Carolina Hurricanes,105.0,Florida Panthers,-125.0,,Carolina,Carolina Hurricanes
+2019-10-08,Dallas Stars,130.0,Washington Capitals,-150.0,OT,Washington,Dallas Stars
+2019-10-08,Edmonton Oilers,130.0,New York Islanders,-150.0,,Edmonton,Edmonton Oilers
+2019-10-08,Los Angeles Kings,175.0,Calgary Flames,-210.0,OT,Calgary,Los Angeles Kings
+2019-10-08,San Jose Sharks,145.0,Nashville Predators,-165.0,,Nashville,Nashville Predators
+2019-10-08,Winnipeg Jets,130.0,Pittsburgh Penguins,-150.0,,Pittsburgh,Winnipeg Jets
+2019-10-09,Los Angeles Kings,130.0,Vancouver Canucks,-150.0,,Vancouver,
+2019-10-09,Montreal Canadiens,-105.0,Buffalo Sabres,-115.0,,Montreal,
+2019-10-09,New Jersey Devils,105.0,Philadelphia Flyers,-125.0,,Philadelphia,
 2019-10-10,Vegas Golden Knights,,Arizona Coyotes,,,,
 2019-10-10,San Jose Sharks,,Chicago Blackhawks,,,,
 2019-10-10,Boston Bruins,,Colorado Avalanche,,,,
