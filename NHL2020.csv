@@ -12,7 +12,7 @@ Date,Visitor,Away Odds,Home,Home Odds,OT,Prediction,Result
 2019-10-03,Montreal Canadiens,130.0,Carolina Hurricanes,-150.0,,Carolina,Carolina
 2019-10-03,Winnipeg Jets,100.0,New York Rangers,-120.0,,Winnipeg,New York Rangers
 2019-10-04,Toronto Maple Leafs,-160.0,Columbus Blue Jackets,,,Toronto,Toronto
-2019-10-04,Winnipeg Jets,,New Jersey Devils,-145.0,SO,Winnipeg, New Jersey
+2019-10-04,Winnipeg Jets,,New Jersey Devils,-145.0,SO,Winnipeg,New Jersey
 2019-10-04,Washington Capitals,120.0,New York Islanders,-125.0,,Washington,Washington
 2019-10-04,Chicago Blackhawks,,Philadelphia Flyers,-120.0,,Philadelphia,Philadelphia
 2019-10-04,Vegas Golden Knights,-120.0,San Jose Sharks,,,Vegas,Vegas
@@ -42,54 +42,54 @@ Date,Visitor,Away Odds,Home,Home Odds,OT,Prediction,Result
 2019-10-08,Los Angeles Kings,175.0,Calgary Flames,-210.0,OT,Calgary,Los Angeles Kings
 2019-10-08,San Jose Sharks,145.0,Nashville Predators,-165.0,,Nashville,Nashville Predators
 2019-10-08,Winnipeg Jets,130.0,Pittsburgh Penguins,-150.0,,Pittsburgh,Winnipeg Jets
-2019-10-09,Los Angeles Kings,130.0,Vancouver Canucks,-150.0,,Vancouver,
-2019-10-09,Montreal Canadiens,-105.0,Buffalo Sabres,-115.0,,Montreal,
-2019-10-09,New Jersey Devils,105.0,Philadelphia Flyers,-125.0,,Philadelphia,
-2019-10-10,Vegas Golden Knights,,Arizona Coyotes,,,,
-2019-10-10,San Jose Sharks,,Chicago Blackhawks,,,,
-2019-10-10,Boston Bruins,,Colorado Avalanche,,,,
-2019-10-10,Calgary Flames,,Dallas Stars,,,,
-2019-10-10,Detroit Red Wings,,Montreal Canadiens,,,,
-2019-10-10,Edmonton Oilers,,New Jersey Devils,,,,
-2019-10-10,Washington Capitals,,Nashville Predators,,,,
-2019-10-10,St. Louis Blues,,Ottawa Senators,,,,
-2019-10-10,Anaheim Ducks,,Pittsburgh Penguins,,,,
-2019-10-10,Tampa Bay Lightning,,Toronto Maple Leafs,,,,
-2019-10-10,Minnesota Wild,,Winnipeg Jets,,,,
-2019-10-11,Florida Panthers,,Buffalo Sabres,,,,
-2019-10-11,New York Islanders,,Carolina Hurricanes,,,,
-2019-10-11,Anaheim Ducks,,Columbus Blue Jackets,,,,
-2019-10-12,New Jersey Devils,,Boston Bruins,,,,
-2019-10-12,Columbus Blue Jackets,,Carolina Hurricanes,,,,
-2019-10-12,Winnipeg Jets,,Chicago Blackhawks,,,,
-2019-10-12,Arizona Coyotes,,Colorado Avalanche,,,,
-2019-10-12,Washington Capitals,,Dallas Stars,,,,
-2019-10-12,Toronto Maple Leafs,,Detroit Red Wings,,,,
-2019-10-12,Nashville Predators,,Los Angeles Kings,,,,
-2019-10-12,Pittsburgh Penguins,,Minnesota Wild,,,,
-2019-10-12,St. Louis Blues,,Montreal Canadiens,,,,
-2019-10-12,Florida Panthers,,New York Islanders,,,,
-2019-10-12,Edmonton Oilers,,New York Rangers,,,,
-2019-10-12,Tampa Bay Lightning,,Ottawa Senators,,,,
-2019-10-12,Philadelphia Flyers,,Vancouver Canucks,,,,
-2019-10-12,Calgary Flames,,Vegas Golden Knights,,,,
-2019-10-13,Vegas Golden Knights,,Los Angeles Kings,,,,
-2019-10-13,Calgary Flames,,San Jose Sharks,,,,
-2019-10-13,Pittsburgh Penguins,,Winnipeg Jets,,,,
-2019-10-14,Anaheim Ducks,,Boston Bruins,,,,
-2019-10-14,Dallas Stars,,Buffalo Sabres,,,,
-2019-10-14,Edmonton Oilers,,Chicago Blackhawks,,,,
-2019-10-14,Florida Panthers,,New Jersey Devils,,,,
-2019-10-14,St. Louis Blues,,New York Islanders,,,,
-2019-10-14,Minnesota Wild,,Ottawa Senators,,,,
-2019-10-14,Colorado Avalanche,,Washington Capitals,,,,
-2019-10-15,Philadelphia Flyers,,Calgary Flames,,,,
-2019-10-15,Carolina Hurricanes,,Los Angeles Kings,,,,
-2019-10-15,Tampa Bay Lightning,,Montreal Canadiens,,,,
-2019-10-15,Minnesota Wild,,Toronto Maple Leafs,,,,
-2019-10-15,Detroit Red Wings,,Vancouver Canucks,,,,
-2019-10-15,Nashville Predators,,Vegas Golden Knights,,,,
-2019-10-15,Arizona Coyotes,,Winnipeg Jets,,,,
+2019-10-09,Los Angeles Kings,130.0,Vancouver Canucks,-150.0,,Vancouver,Vancouver Canucks
+2019-10-09,Montreal Canadiens,-105.0,Buffalo Sabres,-115.0,OT,Montreal,Buffalo Sabres
+2019-10-09,New Jersey Devils,105.0,Philadelphia Flyers,-125.0,,Philadelphia,Philadelphia Flyers
+2019-10-10,Anaheim Ducks,120.0,Pittsburgh Penguins,-140.0,,Anaheim,Pittsburgh Penguins
+2019-10-10,Boston Bruins,-110.0,Colorado Avalanche,-110.0,,Colorado,Colorado Avalanche
+2019-10-10,Calgary Flames,-110.0,Dallas Stars,-110.0,SO,Dallas,Calgary Flames
+2019-10-10,Detroit Red Wings,150.0,Montreal Canadiens,-170.0,,Montreal,Detroit Red Wings
+2019-10-10,Edmonton Oilers,105.0,New Jersey Devils,-125.0,SO,Edmonton,Edmonton Oilers
+2019-10-10,Minnesota Wild,100.0,Winnipeg Jets,-120.0,,Minnesota,Winnipeg Jets
+2019-10-10,San Jose Sharks,-110.0,Chicago Blackhawks,-110.0,,San Jose,San Jose Sharks
+2019-10-10,St. Louis Blues,-200.0,Ottawa Senators,175.0,,St. Louis,St. Louis Blues
+2019-10-10,Tampa Bay Lightning,-110.0,Toronto Maple Leafs,-110.0,,Tampa Bay,Tampa Bay Lightning
+2019-10-10,Vegas Golden Knights,-140.0,Arizona Coyotes,120.0,,Vegas,Arizona Coyotes
+2019-10-10,Washington Capitals,120.0,Nashville Predators,-140.0,,Nashville,Nashville Predators
+2019-10-11,Florida Panthers,,Buffalo Sabres,,SO,Florida,Buffalo Sabres
+2019-10-11,New York Islanders,,Carolina Hurricanes,,,New York Islanders,Carolina Hurricanes
+2019-10-11,Anaheim Ducks,,Columbus Blue Jackets,,,Anaheim,Anaheim Ducks
+2019-10-12,Arizona Coyotes,135.0,Colorado Avalanche,-155.0,OT,Colorado,Colorado Avalanche
+2019-10-12,Calgary Flames,125.0,Vegas Golden Knights,-145.0,,Vegas,Vegas Golden Knights
+2019-10-12,Columbus Blue Jackets,175.0,Carolina Hurricanes,-200.0,,Carolina,Columbus Blue Jackets
+2019-10-12,Edmonton Oilers,110.0,New York Rangers,-130.0,,New York Rangers,Edmonton Oilers
+2019-10-12,Florida Panthers,-105.0,New York Islanders,-115.0,SO,Florida,New York Islanders
+2019-10-12,Nashville Predators,-165.0,Los Angeles Kings,145.0,,Nashville,Los Angeles Kings
+2019-10-12,New Jersey Devils,175.0,Boston Bruins,-200.0,,Boston,Boston Bruins
+2019-10-12,Philadelphia Flyers,-105.0,Vancouver Canucks,-115.0,SO,Vancouver,Vancouver Canucks
+2019-10-12,Pittsburgh Penguins,100.0,Minnesota Wild,-120.0,,Pittsburgh,Pittsburgh Penguins
+2019-10-12,St. Louis Blues,-120.0,Montreal Canadiens,100.0,,Montreal,Montreal Canadiens
+2019-10-12,Tampa Bay Lightning,-260.0,Ottawa Senators,220.0,,Tampa Bay,Ottawa Senators
+2019-10-12,Toronto Maple Leafs,-180.0,Detroit Red Wings,160.0,,Toronto,Toronto Maple Leafs
+2019-10-12,Washington Capitals,-105.0,Dallas Stars,-115.0,,Dallas,Washington Capitals
+2019-10-12,Winnipeg Jets,115.0,Chicago Blackhawks,-135.0,OT,Winnipeg,Winnipeg Jets
+2019-10-13,Calgary Flames,110.0,San Jose Sharks,-130.0,,San Jose,San Jose Sharks
+2019-10-13,Pittsburgh Penguins,100.0,Winnipeg Jets,-120.0,,Winnipeg,Pittsburgh Penguins
+2019-10-13,Vegas Golden Knights,-150.0,Los Angeles Kings,130.0,,Los Angeles,Vegas Golden Knights
+2019-10-14,Anaheim Ducks,180.0,Boston Bruins,-210.0,,Boston,Boston Bruins
+2019-10-14,Colorado Avalanche,110.0,Washington Capitals,-130.0,,Washington,Colorado Avalanche
+2019-10-14,Dallas Stars,-115.0,Buffalo Sabres,-105.0,,Dallas,Buffalo Sabres
+2019-10-14,Edmonton Oilers,115.0,Chicago Blackhawks,-135.0,,Chicago,Chicago Blackhawks
+2019-10-14,Florida Panthers,-110.0,New Jersey Devils,-110.0,,Florida,Florida Panthers
+2019-10-14,Minnesota Wild,-140.0,Ottawa Senators,120.0,,Minnesota,Minnesota Wild
+2019-10-14,St. Louis Blues,-130.0,New York Islanders,110.0,OT,New York Islanders,New York Islanders
+2019-10-15,Arizona Coyotes,110.0,Winnipeg Jets,-130.0,,Winnipeg,
+2019-10-15,Carolina Hurricanes,-165.0,Los Angeles Kings,145.0,,Carolina,
+2019-10-15,Detroit Red Wings,135.0,Vancouver Canucks,-155.0,,Detroit,
+2019-10-15,Minnesota Wild,200.0,Toronto Maple Leafs,-240.0,,Toronto,
+2019-10-15,Nashville Predators,120.0,Vegas Golden Knights,-140.0,,Vegas,
+2019-10-15,Philadelphia Flyers,125.0,Calgary Flames,-145.0,,Calgary,
+2019-10-15,Tampa Bay Lightning,-135.0,Montreal Canadiens,115.0,,Tampa Bay,
 2019-10-16,Buffalo Sabres,,Anaheim Ducks,,,,
 2019-10-16,Dallas Stars,,Columbus Blue Jackets,,,,
 2019-10-16,Philadelphia Flyers,,Edmonton Oilers,,,,
